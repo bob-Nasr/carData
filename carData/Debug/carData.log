@@ -1,0 +1,4 @@
+﻿  carData.cpp
+C:\Users\User\source\repos\carData\carData\carData.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\carData\carData\carData.cpp(40,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  carData.vcxproj -> C:\Users\User\source\repos\carData\Debug\carData.exe
